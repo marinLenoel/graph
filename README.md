@@ -1,4 +1,4 @@
-# simple_graph
+# graph
 Simple graph implementation in c
 
 
